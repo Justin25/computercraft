@@ -1,0 +1,40 @@
+{
+    "bricks":{
+        "description":"Bricks package manager",
+        "deps":[
+            "lib/json"
+        ]
+    },
+    "lib/json":{
+        "description":"https://github.com/rxi/json.lua",
+        "deps":[]
+    },
+    "monitorloop":{
+        "description":"Loops a specific application on a monitor",
+        "deps":[]
+    },
+    "starwars":{
+        "description":"ComputerCraft version of blinkenlights.nl telnet",
+        "deps":[]
+    },
+	"watchbrick":{
+		"description":"Repeatedly attempt to install a package.",
+		"deps":[]
+	},
+	"rncat":{
+		"description":"Simple rednet networking utility",
+		"deps":[]
+	},
+	"orderfood":{
+		"description":"Grubhub ripoff",
+		"deps":[]
+	},
+	"orderterminal":{
+		"description":"Grubhub ripoff server",
+		"deps":[]
+	},
+	"tn":{
+		"description":"TacoNet debug tool",
+		"deps":[]
+	}
+}
